@@ -6,5 +6,8 @@ public class GitPractice {
 		System.out.println("My Name is Karthick");
 		
 	}
+	public void branch() {
+		System.out.println(" My New Branch Name is Karthy ");
+	}
 
 }
