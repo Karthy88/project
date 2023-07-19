@@ -8,12 +8,10 @@ public static void main(String[] args) {
 public void signup() {
 	System.out.println(" Karthy SignUp Page ");
 }
-<<<<<<< HEAD
-public void Cancel() {
-	System.out.println(" Yoki Cancel Page ");
-=======
 public void login() {
 	System.out.println(" Yoki Login Page ");
->>>>>>> 7062533ce802ac0c386694578bdbd768c9c2a1cd
+}
+public void Cancel() {
+	System.out.println(" Yoki Cancel Page ");
 }
 }
