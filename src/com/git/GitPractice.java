@@ -11,7 +11,7 @@ public void signup() {
 public void login() {
 	System.out.println(" Yoki Login Page ");
 }
-public void Cancel() {
-	System.out.println(" Siva Cancel Page ");
+public void AddToCart() {
+	System.out.println(" Siva AddToCart Page ");
 }
 }
