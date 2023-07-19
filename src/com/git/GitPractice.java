@@ -11,7 +11,7 @@ public class GitPractice {
 		System.out.println(" My New Branch Name is Karthy ");
 	}
 
-	public void newBrranch() {
+	public void login() {
 		System.out.println(" My Branch Karthick ");
 
 	}
