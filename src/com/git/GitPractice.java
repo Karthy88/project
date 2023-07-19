@@ -14,4 +14,7 @@ public void login() {
 public void AddToCart() {
 	System.out.println(" Siva AddToCart Page ");
 }
+public void Remove() {
+	System.out.println(" Siva Remove Page ");
+}
 }
