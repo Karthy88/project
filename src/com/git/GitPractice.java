@@ -17,4 +17,7 @@ public void AddToCart() {
 public void Remove() {
 	System.out.println(" Siva Remove Page ");
 }
+public void Search() {
+	System.out.println(" Mani Search Page ");
+}
 }
