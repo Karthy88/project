@@ -8,7 +8,7 @@ public static void main(String[] args) {
 public void signup() {
 	System.out.println(" Karthy SignUp Page ");
 }
-public void login() {
-	System.out.println(" Yoki Login Page ");
+public void Cancel() {
+	System.out.println(" Yoki Cancel Page ");
 }
 }
